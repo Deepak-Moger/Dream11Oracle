@@ -863,20 +863,50 @@ def main():
     model.save_model(model_path)
 
     # ==========================================================================
-    # STEP 4: Prediction Demo
+    # STEP 4: Generate Predictions for ALL Teams
     # ==========================================================================
     print("\n" + "="*60)
-    print("STEP 4: DREAM11 PREDICTION DEMO")
+    print("STEP 4: GENERATING PREDICTIONS FOR ALL TEAMS")
     print("="*60)
 
     predictor = Dream11Predictor(model.model, featured_data, feature_columns)
 
-    # Example prediction
-    predictions = predictor.predict_dream11_team(
-        team_a="Mumbai Indians",
-        team_b="Chennai Super Kings",
-        venue="Wankhede Stadium"
-    )
+    # Get all unique teams from the most recent season
+    max_season = featured_data['season'].max()
+    recent_data = featured_data[featured_data['season'] == max_season]
+    all_teams = recent_data['team'].dropna().unique().tolist()
+    
+    print(f"\nFound {len(all_teams)} teams in season {max_season}:")
+    for team in sorted(all_teams):
+        print(f"  - {team}")
+
+    # Generate predictions for ALL players
+    all_predictions = []
+    
+    for team in all_teams:
+        team_players = predictor.get_team_players(team)
+        print(f"\nProcessing {team}: {len(team_players)} players")
+        
+        for player in team_players:
+            features = predictor.prepare_prediction_features(player, "Generic", "Generic Venue")
+            if features is not None:
+                prediction = predictor.model.predict(features)[0]
+                all_predictions.append({
+                    'Player': player,
+                    'Team': team,
+                    'Predicted_Points': round(prediction, 2),
+                    'Career_Avg': round(features['Career_Avg_Points'].values[0], 2) if 'Career_Avg_Points' in features.columns else 0,
+                    'Recent_Form': round(features['Avg_Points_Last_5_Matches'].values[0], 2) if 'Avg_Points_Last_5_Matches' in features.columns else 0
+                })
+
+    # Create DataFrame with all predictions
+    predictions = pd.DataFrame(all_predictions)
+    predictions = predictions.drop_duplicates(subset=['Player'], keep='first')
+    predictions = predictions.sort_values('Predicted_Points', ascending=False).reset_index(drop=True)
+    
+    print(f"\n{'='*60}")
+    print(f"TOTAL: {len(predictions)} unique players across {len(all_teams)} teams")
+    print(f"{'='*60}")
 
     # Save predictions to CSV
     predictions_file = os.path.join(script_dir, "dream11_predictions.csv")

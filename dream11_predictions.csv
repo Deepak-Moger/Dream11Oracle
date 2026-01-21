@@ -1,88 +1,209 @@
 Player,Team,Predicted_Points,Career_Avg,Recent_Form
-JO Holder,Chennai Super Kings,59.6,38.4,5.0
-RG Sharma,Mumbai Indians,56.34,35.66,36.8
-MS Dhoni,Chennai Super Kings,52.5,29.45,7.0
-BA Stokes,Chennai Super Kings,50.51,44.25,61.8
-Arshdeep Singh,Mumbai Indians,46.98,31.68,10.0
-Naveen-ul-Haq,Mumbai Indians,46.64,37.33,44.8
-Akash Madhwal,Chennai Super Kings,44.53,61.86,80.0
-MM Sharma,Mumbai Indians,43.77,33.81,69.6
-SA Yadav,Mumbai Indians,43.33,33.18,69.4
-C Green,Mumbai Indians,40.49,48.13,47.8
-MM Ali,Chennai Super Kings,39.98,40.5,14.0
-Mohammed Shami,Chennai Super Kings,39.48,33.46,50.2
-Harpreet Brar,Mumbai Indians,39.4,28.04,50.8
-SM Curran,Mumbai Indians,39.2,40.73,29.2
-Umran Malik,Mumbai Indians,39.12,37.04,16.6
-Nithish Kumar Reddy,Mumbai Indians,38.29,0.0,0.0
-DL Chahar,Chennai Super Kings,37.37,28.82,63.4
-MM Sharma,Chennai Super Kings,36.87,33.81,69.6
-JC Archer,Mumbai Indians,36.76,40.08,16.4
-Mayank Dagar,Mumbai Indians,36.69,0.0,0.0
-Mayank Dagar,Chennai Super Kings,36.69,0.0,0.0
-HV Patel,Mumbai Indians,35.83,36.84,16.6
-LH Ferguson,Mumbai Indians,35.72,31.22,5.0
-Ishan Kishan,Mumbai Indians,35.61,35.52,41.0
-JP Behrendorff,Chennai Super Kings,35.51,31.38,30.8
-KR Sen,Chennai Super Kings,34.98,28.5,11.6
-KR Sen,Mumbai Indians,34.98,28.5,11.6
-M Markande,Chennai Super Kings,34.66,30.69,21.8
-JP Behrendorff,Mumbai Indians,33.95,31.38,30.8
-AT Rayudu,Chennai Super Kings,33.38,29.72,12.8
-Mohammed Siraj,Mumbai Indians,32.69,28.65,15.0
-DP Conway,Chennai Super Kings,32.61,54.9,52.8
-SSB Magala,Chennai Super Kings,32.3,25.0,25.0
-K Kartikeya,Mumbai Indians,32.3,27.36,19.8
-N Wadhera,Mumbai Indians,32.27,34.56,45.0
-CJ Jordan,Mumbai Indians,32.07,27.58,15.8
-M Pathirana,Chennai Super Kings,32.07,40.23,56.4
-K Kartikeya,Chennai Super Kings,31.55,27.36,19.8
-Duan Jansen,Mumbai Indians,31.07,25.0,25.0
-Akash Madhwal,Mumbai Indians,31.04,61.86,80.0
-RD Gaikwad,Chennai Super Kings,30.9,46.3,55.6
-CV Varun,Mumbai Indians,30.76,32.65,34.0
-Kartik Tyagi,Mumbai Indians,30.53,22.06,11.8
-D Pretorius,Chennai Super Kings,30.39,35.17,32.2
-TU Deshpande,Chennai Super Kings,30.28,31.0,21.6
-AM Rahane,Chennai Super Kings,30.22,35.27,20.0
-Yash Thakur,Mumbai Indians,30.05,33.75,26.6
-M Theekshana,Chennai Super Kings,30.02,32.38,23.2
-Mohammed Shami,Mumbai Indians,29.89,33.46,50.2
-Mohsin Khan (2),Mumbai Indians,29.72,37.92,30.8
-PP Chawla,Mumbai Indians,29.5,31.98,21.6
-Tilak Varma,Mumbai Indians,29.5,36.96,20.4
-Sandeep Sharma,Chennai Super Kings,29.43,30.77,18.6
-NT Ellis,Mumbai Indians,29.4,33.36,33.2
-Ravi Bishnoi,Mumbai Indians,28.93,30.4,35.6
-Umran Malik,Chennai Super Kings,28.47,37.04,16.6
-A Zampa,Chennai Super Kings,28.35,41.26,39.4
-Vijaykumar Vyshak,Mumbai Indians,28.25,37.83,29.6
-Arshad Khan (2),Mumbai Indians,28.16,29.6,29.6
-Noor Ahmad,Mumbai Indians,28.05,32.92,18.4
-TH David,Mumbai Indians,27.66,22.87,13.0
-T Stubbs,Mumbai Indians,27.65,2.33,2.33
-UT Yadav,Mumbai Indians,27.31,28.62,2.6
-K Yadav,Chennai Super Kings,27.06,12.5,12.5
-Arjun Tendulkar,Mumbai Indians,26.95,19.33,19.33
-R Dhawan,Mumbai Indians,26.86,26.6,10.4
-Mukesh Kumar,Mumbai Indians,26.68,21.11,17.8
-S Dube,Chennai Super Kings,26.01,31.36,30.2
-Noor Ahmad,Chennai Super Kings,26.01,32.92,18.4
-Sandeep Sharma,Mumbai Indians,25.81,30.77,18.6
-RA Jadeja,Chennai Super Kings,25.73,34.43,47.2
-HR Shokeen,Mumbai Indians,25.07,16.67,15.0
-Akash Singh,Chennai Super Kings,24.96,23.5,28.2
-Vishnu Vinod,Mumbai Indians,23.77,12.8,12.8
-RP Meredith,Mumbai Indians,23.72,27.41,31.6
-JR Hazlewood,Mumbai Indians,23.25,36.27,51.2
-J Little,Chennai Super Kings,22.77,22.11,23.2
-MJ Santner,Chennai Super Kings,22.56,24.29,15.8
-RD Chahar,Mumbai Indians,21.81,27.58,28.2
-B Kumar,Chennai Super Kings,21.59,31.78,54.8
-J Little,Mumbai Indians,21.02,22.11,23.2
-YS Chahal,Chennai Super Kings,20.82,36.84,53.0
-YS Chahal,Mumbai Indians,20.67,36.84,53.0
-R Goyal,Chennai Super Kings,16.2,0.0,0.0
-B Kumar,Mumbai Indians,15.79,31.78,54.8
-Suyash Sharma,Mumbai Indians,12.84,28.6,16.6
-Swapnil Singh,Mumbai Indians,5.85,6.5,7.8
+AJ Hosein,Sunrisers Hyderabad,75.41,44.0,44.0
+YBK Jaiswal,Rajasthan Royals,60.28,41.75,76.4
+JO Holder,Rajasthan Royals,59.04,38.4,5.0
+PWH de Silva,Punjab Kings,49.02,40.8,30.6
+WP Saha,Gujarat Titans,48.56,25.75,10.2
+SP Narine,Gujarat Titans,48.51,37.66,19.8
+DA Warner,Delhi Capitals,47.24,47.66,33.2
+F du Plessis,Royal Challengers Bangalore,46.89,43.19,72.6
+Atharva Taide,Punjab Kings,46.86,36.33,43.6
+Naveen-ul-Haq,Lucknow Super Giants,46.64,37.33,44.8
+LH Ferguson,Kolkata Knight Riders,45.85,31.22,5.0
+MM Sharma,Lucknow Super Giants,45.42,33.81,69.6
+JC Buttler,Rajasthan Royals,45.24,45.3,31.0
+KL Rahul,Lucknow Super Giants,45.13,50.77,53.4
+Sikandar Raza,Punjab Kings,45.07,41.17,40.6
+SA Yadav,Mumbai Indians,44.64,33.18,69.4
+Harpreet Brar,Rajasthan Royals,44.03,28.04,50.8
+AD Russell,Kolkata Knight Riders,43.87,51.87,38.8
+DL Chahar,Lucknow Super Giants,42.59,28.82,63.4
+A Zampa,Rajasthan Royals,41.73,41.26,39.4
+YS Chahal,Gujarat Titans,41.7,36.84,53.0
+MM Ali,Chennai Super Kings,41.69,40.5,14.0
+R Shepherd,Lucknow Super Giants,41.54,48.33,48.33
+Arshdeep Singh,Gujarat Titans,41.42,31.68,10.0
+N Rana,Kolkata Knight Riders,41.06,36.38,51.4
+AR Patel,Punjab Kings,40.69,35.53,36.6
+PD Salt,Delhi Capitals,40.43,35.38,39.4
+LS Livingstone,Punjab Kings,40.41,41.48,62.8
+Shubman Gill,Gujarat Titans,40.21,41.31,107.8
+KR Mayers,Lucknow Super Giants,39.69,41.0,32.4
+N Pooran,Lucknow Super Giants,39.54,29.12,35.0
+SM Curran,Punjab Kings,39.39,40.73,29.2
+C Green,Mumbai Indians,38.85,48.13,47.8
+SV Samson,Rajasthan Royals,38.7,34.25,43.4
+Tilak Varma,Mumbai Indians,38.67,36.96,20.4
+Vivrant Sharma,Sunrisers Hyderabad,38.64,0.0,0.0
+A Nortje,Punjab Kings,38.61,38.44,39.2
+AU Rashid,Sunrisers Hyderabad,38.51,10.5,10.5
+M Markande,Lucknow Super Giants,38.47,30.69,21.8
+MA Agarwal,Sunrisers Hyderabad,38.09,27.56,29.6
+HH Pandya,Gujarat Titans,37.67,36.08,17.4
+RR Rossouw,Delhi Capitals,37.56,25.69,43.4
+MA Wood,Lucknow Super Giants,37.15,74.0,74.0
+JC Archer,Royal Challengers Bangalore,37.05,40.08,16.4
+H Klaasen,Sunrisers Hyderabad,37.05,40.94,75.4
+P Simran Singh,Punjab Kings,37.05,29.16,51.6
+Mohammed Siraj,Lucknow Super Giants,36.64,28.65,15.0
+N Wadhera,Mumbai Indians,36.58,34.56,45.0
+Umran Malik,Lucknow Super Giants,36.08,37.04,16.6
+Anuj Rawat,Royal Challengers Bangalore,35.86,16.27,15.6
+MK Pandey,Delhi Capitals,35.71,30.56,19.4
+RA Tripathi,Sunrisers Hyderabad,35.69,30.43,24.2
+A Mishra,Lucknow Super Giants,35.55,32.34,24.2
+D Wiese,Kolkata Knight Riders,35.48,35.06,22.2
+K Rabada,Gujarat Titans,35.3,45.81,25.0
+KR Sen,Chennai Super Kings,35.19,28.5,11.6
+HR Shokeen,Sunrisers Hyderabad,34.68,16.67,15.0
+DA Miller,Gujarat Titans,34.64,30.2,18.6
+GJ Maxwell,Royal Challengers Bangalore,34.64,36.23,46.6
+MG Bracewell,Royal Challengers Bangalore,34.59,46.25,46.25
+MP Stoinis,Lucknow Super Giants,34.59,35.27,36.8
+K Yadav,Chennai Super Kings,34.38,12.5,12.5
+K Kartikeya,Gujarat Titans,34.3,27.36,19.8
+Rashid Khan,Lucknow Super Giants,34.3,43.37,82.6
+TA Boult,Rajasthan Royals,33.95,34.03,36.8
+JM Sharma,Punjab Kings,33.86,27.13,23.6
+RD Gaikwad,Chennai Super Kings,33.79,46.3,55.6
+MS Dhoni,Chennai Super Kings,33.68,29.45,7.0
+D Padikkal,Rajasthan Royals,33.55,33.61,25.0
+VR Iyer,Kolkata Knight Riders,33.42,37.26,24.0
+PP Chawla,Lucknow Super Giants,33.17,31.98,21.6
+AK Markram,Sunrisers Hyderabad,33.06,32.23,28.4
+Vijaykumar Vyshak,Gujarat Titans,33.03,37.83,29.6
+M Jansen,Kolkata Knight Riders,33.0,31.12,33.0
+HV Patel,Lucknow Super Giants,32.82,36.84,16.6
+Sandeep Sharma,Rajasthan Royals,32.8,30.77,18.6
+AM Rahane,Chennai Super Kings,32.8,35.27,20.0
+B Kumar,Lucknow Super Giants,32.79,31.78,54.8
+CJ Jordan,Gujarat Titans,32.6,27.58,15.8
+Mohsin Khan (2),Lucknow Super Giants,32.51,37.92,30.8
+Mohammed Shami,Lucknow Super Giants,32.41,33.46,50.2
+WD Parnell,Lucknow Super Giants,32.31,32.06,34.4
+JD Unadkat,Lucknow Super Giants,32.3,29.0,29.8
+UT Yadav,Kolkata Knight Riders,32.26,28.62,2.6
+CV Varun,Gujarat Titans,32.07,32.65,34.0
+BA Stokes,Chennai Super Kings,32.07,44.25,61.8
+OC McCoy,Sunrisers Hyderabad,31.89,44.71,46.0
+Yash Thakur,Lucknow Super Giants,31.79,33.75,26.6
+Avesh Khan,Lucknow Super Giants,31.72,33.87,20.8
+A Badoni,Lucknow Super Giants,31.42,24.64,39.2
+DP Conway,Chennai Super Kings,31.13,54.9,52.8
+M Theekshana,Gujarat Titans,30.66,32.38,23.2
+AS Joseph,Lucknow Super Giants,30.38,33.22,26.6
+K Gowtham,Lucknow Super Giants,30.19,25.38,27.6
+RK Singh,Kolkata Knight Riders,29.98,29.93,39.2
+KH Pandya,Lucknow Super Giants,29.91,33.53,31.6
+B Sai Sudharsan,Gujarat Titans,29.8,43.0,45.6
+JP Behrendorff,Lucknow Super Giants,29.66,31.38,30.8
+R Ashwin,Rajasthan Royals,29.6,28.73,27.4
+Akash Madhwal,Lucknow Super Giants,29.39,61.86,80.0
+KV Sharma,Lucknow Super Giants,29.34,30.73,43.8
+KM Asif,Rajasthan Royals,29.33,20.83,15.0
+KK Ahmed,Gujarat Titans,29.21,35.07,25.0
+Kartik Tyagi,Sunrisers Hyderabad,29.19,22.06,11.8
+MK Lomror,Royal Challengers Bangalore,29.18,19.92,25.6
+PP Shaw,Delhi Capitals,29.09,31.43,21.6
+Ishan Kishan,Mumbai Indians,29.08,35.52,41.0
+S Dhawan,Punjab Kings,29.01,39.86,32.4
+M Ashwin,Delhi Capitals,28.6,23.49,28.2
+Abhishek Sharma,Sunrisers Hyderabad,28.58,29.72,48.6
+Rahmanullah Gurbaz,Kolkata Knight Riders,28.37,28.8,30.8
+TU Deshpande,Lucknow Super Giants,28.18,31.0,21.6
+Kuldeep Yadav,Punjab Kings,28.14,29.07,18.6
+M Pathirana,Gujarat Titans,28.12,40.23,56.4
+D Pretorius,Chennai Super Kings,27.99,35.17,32.2
+KD Karthik,Royal Challengers Bangalore,27.97,25.74,19.4
+MR Marsh,Delhi Capitals,27.94,46.54,79.6
+DJ Willey,Lucknow Super Giants,27.76,22.2,30.2
+V Shankar,Gujarat Titans,27.67,26.71,43.0
+SO Hetmyer,Rajasthan Royals,27.29,25.15,16.0
+Noor Ahmad,Lucknow Super Giants,27.26,32.92,18.4
+S Dube,Chennai Super Kings,26.95,31.36,30.2
+Lalit Yadav,Delhi Capitals,26.9,27.95,24.4
+Mukesh Kumar,Gujarat Titans,26.68,21.11,17.8
+Akash Deep,Royal Challengers Bangalore,26.62,27.0,27.4
+M Vohra,Lucknow Super Giants,26.55,26.88,15.0
+R Dhawan,Punjab Kings,26.55,26.6,10.4
+Ravi Bishnoi,Lucknow Super Giants,26.42,30.4,35.6
+Mustafizur Rahman,Delhi Capitals,26.38,27.62,34.2
+JJ Roy,Kolkata Knight Riders,26.19,37.25,36.2
+C Sakariya,Delhi Capitals,25.92,29.0,34.4
+Mandeep Singh,Kolkata Knight Riders,25.77,21.48,4.4
+TH David,Mumbai Indians,25.63,22.87,13.0
+Suyash Sharma,Gujarat Titans,25.43,28.6,16.6
+AS Roy,Kolkata Knight Riders,25.25,25.5,25.6
+Duan Jansen,Mumbai Indians,25.15,25.0,25.0
+R Tewatia,Gujarat Titans,25.13,26.93,14.8
+MW Short,Punjab Kings,25.03,23.4,23.4
+Akash Singh,Punjab Kings,24.96,23.5,28.2
+Shahbaz Ahmed,Lucknow Super Giants,24.96,21.67,9.2
+K Khejroliya,Delhi Capitals,24.72,15.17,18.2
+Arjun Tendulkar,Sunrisers Hyderabad,24.61,19.33,19.33
+A Manohar,Gujarat Titans,24.15,22.67,27.2
+M Shahrukh Khan,Punjab Kings,24.11,15.9,8.8
+AT Rayudu,Chennai Super Kings,23.95,29.72,12.8
+R Powell,Delhi Capitals,23.91,26.29,19.4
+R Parag,Rajasthan Royals,23.8,17.54,11.8
+RP Meredith,Sunrisers Hyderabad,23.72,27.41,31.6
+RJW Topley,Royal Challengers Bangalore,23.68,33.0,33.0
+RS Hangargekar,Lucknow Super Giants,23.67,79.0,79.0
+Mayank Dagar,Chennai Super Kings,23.66,0.0,0.0
+NT Ellis,Rajasthan Royals,23.66,33.36,33.2
+JR Hazlewood,Delhi Capitals,23.6,36.27,51.2
+NA Saini,Rajasthan Royals,23.46,18.87,15.8
+PBB Rajapaksa,Punjab Kings,23.24,29.75,19.8
+T Natarajan,Lucknow Super Giants,23.19,28.74,21.6
+Aman Hakim Khan,Delhi Capitals,23.12,15.44,19.6
+PK Garg,Delhi Capitals,22.99,17.39,24.2
+YV Dhull,Delhi Capitals,22.84,1.5,1.5
+J Little,Gujarat Titans,22.77,22.11,23.2
+RA Jadeja,Chennai Super Kings,22.76,34.43,47.2
+Yash Dayal,Gujarat Titans,22.68,23.38,10.0
+Fazalhaq Farooqi,Lucknow Super Giants,22.62,25.17,29.8
+N Jagadeesan,Kolkata Knight Riders,22.55,19.33,16.8
+SN Thakur,Kolkata Knight Riders,22.28,31.55,24.8
+SN Khan,Delhi Capitals,22.17,20.29,21.6
+Harpreet Singh,Punjab Kings,21.81,12.2,12.2
+Harshit Rana,Gujarat Titans,21.72,19.29,21.6
+MJ Santner,Chennai Super Kings,21.62,24.29,15.8
+Yudhvir Singh,Lucknow Super Giants,21.45,29.5,29.5
+Nithish Kumar Reddy,Royal Challengers Bangalore,21.15,0.0,0.0
+RG Sharma,Mumbai Indians,20.95,35.66,36.8
+I Sharma,Gujarat Titans,20.26,22.84,28.2
+Dhruv Jurel,Rajasthan Royals,20.22,18.1,20.4
+Arshad Khan (2),Mumbai Indians,20.14,29.6,29.6
+PN Mankad,Lucknow Super Giants,20.1,30.75,30.75
+HC Brook,Sunrisers Hyderabad,19.83,24.9,11.8
+RV Patel,Delhi Capitals,19.82,13.33,12.0
+Washington Sundar,Kolkata Knight Riders,19.75,23.11,7.6
+VG Arora,Kolkata Knight Riders,19.7,18.33,15.8
+V Kohli,Royal Challengers Bangalore,19.47,40.82,55.6
+Anmolpreet Singh,Sunrisers Hyderabad,19.46,27.33,28.8
+TG Southee,Kolkata Knight Riders,19.45,26.62,30.0
+DG Nalkande,Gujarat Titans,18.52,25.0,25.0
+RD Chahar,Gujarat Titans,18.44,27.58,28.2
+Q de Kock,Lucknow Super Giants,18.08,39.48,71.0
+T Stubbs,Mumbai Indians,17.62,2.33,2.33
+KM Jadhav,Royal Challengers Bangalore,17.59,18.16,12.2
+DJ Hooda,Lucknow Super Giants,17.01,20.51,6.4
+Abdul Samad,Sunrisers Hyderabad,16.47,20.23,27.6
+GD Phillips,Sunrisers Hyderabad,16.16,18.43,21.6
+Vishnu Vinod,Mumbai Indians,16.01,12.8,12.8
+P Dubey,Delhi Capitals,13.93,2.33,2.33
+SS Prabhudessai,Royal Challengers Bangalore,13.75,14.5,10.4
+JE Root,Rajasthan Royals,13.42,0.0,0.0
+J Yadav,Lucknow Super Giants,11.12,13.68,17.6
+SSB Magala,Chennai Super Kings,10.22,25.0,25.0
+MD Shanaka,Gujarat Titans,8.56,5.0,5.0
+Abishek Porel,Delhi Capitals,8.18,11.0,11.0
+Sanvir Singh,Sunrisers Hyderabad,7.74,9.0,9.0
+KS Sharma,Lucknow Super Giants,7.64,7.0,7.0
+Swapnil Singh,Lucknow Super Giants,5.85,6.5,7.8
+Liton Das,Kolkata Knight Riders,5.53,5.0,5.0
+Abdul Basith,Rajasthan Royals,2.99,1.0,1.0
+Mohit Rathee,Punjab Kings,2.99,1.0,1.0
+H Sharma,Gujarat Titans,2.96,0.0,0.0
+R Goyal,Chennai Super Kings,2.96,0.0,0.0
+Gurnoor Brar,Punjab Kings,2.96,0.0,0.0
